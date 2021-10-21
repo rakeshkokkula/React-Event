@@ -1,0 +1,21 @@
+.details{
+    margin:30px;
+    box-sizing:border-box;
+    border: solid black;
+}
+h1{
+    text-align: center;
+}
+/* .p{
+    padding-left: 10px;
+    padding-right: 20px;
+} */
+p{
+    margin-left: 10px;
+}
+.btn-primary{
+  margin-left: 500px;
+}
+.btn-danger{
+    margin-left:20px;
+}

@@ -1,0 +1,27 @@
+.card{
+    margin-top: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.card-footer{
+    font-weight: bold;
+    background-color: rgba(220, 220, 220, 0.918);
+}
+.addDetails{
+    margin-top: 10%;
+    margin-bottom: 2%;
+    white-space: pre;
+}
+
+#address{
+    width: 30%;
+}
+.table{
+    margin-top: 5%;
+    width: 70%;
+    border-color: rgba(0, 0, 0, 0.904);
+}
+.addDetail{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
